@@ -1,4 +1,4 @@
-public class Java_11_if_else {
+public class JAVA_11_if_else {
     public static void main(String[] args) {
 
         // Declaring an integer variable 'age' and assigning it a value of 15

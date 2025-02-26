@@ -1,4 +1,4 @@
-public class Java_12_Logical_operator {
+public class JAVA_12_Logical_operator {
     public static void main(String[] args) {
 
         /*
