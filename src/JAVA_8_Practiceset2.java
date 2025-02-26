@@ -1,4 +1,4 @@
-public class Java_8_Practiceset2 {
+public class JAVA_8_Practiceset2 {
     public static void main(String[] args) {
         //compare operator
        /* System.out.println("Enter a number");
