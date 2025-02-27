@@ -1,4 +1,4 @@
-public class JAVA_Do_While_Loops {
+public class JAVA_17_Do_While_Loops {
     public static void main(String[] args) {
         // Declare and initialize variable 'a' with value 1 (for do-while loop)
         int a = 1;
