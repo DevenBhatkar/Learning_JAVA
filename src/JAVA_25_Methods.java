@@ -28,5 +28,6 @@ public class JAVA_25_Methods {
 
         // Print the result of the addition
         System.out.println("The sum of two numbers is: " + result);
+        //
     }
 }
